@@ -8,6 +8,3 @@ run-dev: install-modules
 
 install-modules:
     echo Y | pnpm i
-
-compile:
-    pnpm run compile
